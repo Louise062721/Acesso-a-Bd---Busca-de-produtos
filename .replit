@@ -1,0 +1,1 @@
+run="mcs main.cs Produto.cs -r:System.Data.dll -r:Mono.Data.Sqlite.dll && mono main.exe"
